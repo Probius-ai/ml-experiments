@@ -1,4 +1,11 @@
+Epochs: 1, Time: 65.24 seconds, Test Accuracy: 78.42%
 Epochs: 2, Time: 107.54 seconds, Test Accuracy: 92.19%
 Epochs: 5, Time: 266.08 seconds, Test Accuracy: 92.56%
 Epochs: 7, Time: 372.33 seconds, Test Accuracy: 93.89%
+Epochs: 10, Time: 553.07 seconds, Test Accuracy: 96.85%
 Epochs: 15, Time: 799.11 seconds, Test Accuracy: 96.05%
+Epochs: 30, Time: 1598.22 seconds, Test Accuracy: 97.31%
+Epochs: 50, Time: 2834.03 seconds, Test Accuracy: 99.29%
+Epochs: 70, Time: 5074.31 seconds, Test Accuracy: 99.26%
+Epochs: 100, Time: 7230.99 seconds, Test Accuracy: 98.77%
+Epochs: 200, Time: 14502.16 seconds, Test Accuracy: 98.67%
